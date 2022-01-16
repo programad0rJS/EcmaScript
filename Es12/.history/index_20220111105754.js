@@ -1,0 +1,1 @@
+const String = 'Javascript es Una_Tec_E_e_eee_zo_yu_es_feo_J '
